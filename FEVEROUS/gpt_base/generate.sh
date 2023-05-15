@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python Main.py --mode wiki_tems_syn --saved_model_path checkpoint_syn
