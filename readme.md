@@ -1,6 +1,6 @@
 ## 🏴󠁶󠁵󠁭󠁡󠁰󠁿 Overview
 
-This is the repository for our paper *Optimization Techniques for Unsupervised Complex Table Reasoning via Self-Training Framework*
+This is the repository for our paper **Optimization Techniques for Unsupervised Complex Table Reasoning via Self-Training Framework**
 
 <img src="./framework.png" alt="framework" style="zoom:40%;" />
 

@@ -37,3 +37,9 @@ sh infer_verdict.sh
 ```
 
 # Self-Training Procedure
+```
+python prepare_for_eval.py  # reformat training file for inference
+sh infer_verdict.sh # get pseudo_labels
+python prepare_for_st.py    # reformat the pseudo-labeled training file
+sh train_verdict.sh #train a student model based on the new training file
+```
