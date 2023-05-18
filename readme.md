@@ -18,9 +18,9 @@ We release our synthetic data on four benchmark and fine-tuned models (correspon
 
  Dataset | Synthetic Data | Fine-tuned Models 
 ----|----|----
-TAT-QA | [tatqa_syn.jsonl](https://drive.google.com/file/d/1mpcTMqgG_YdfYIxnOHfBUfawNhXuLWwC/view?usp=sharing) | [tatqa_checkpoint](to_be_uploaded)
-WiKiSQL | [wikisql_syn.jsonl](https://drive.google.com/file/d/1-xHnOV81Eg5RiT3G-ur6C67nhnbu-_JA/view?usp=sharing) | [wikisql_checkpoint](to_be_uploaded)
-SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing) | [sem_tab_fact_checkpoint](to_be_uploaded)
+TAT-QA | [tatqa_syn.jsonl](https://drive.google.com/file/d/1mpcTMqgG_YdfYIxnOHfBUfawNhXuLWwC/view?usp=sharing) | [tatqa_checkpoint](https://drive.google.com/file/d/1uGUa4GyFK2pXFTpPBpfU1C6ZgTUlv85u/view?usp=share_link)
+WiKiSQL | [wikisql_syn.jsonl](https://drive.google.com/file/d/1-xHnOV81Eg5RiT3G-ur6C67nhnbu-_JA/view?usp=sharing) | [wikisql_checkpoint](https://drive.google.com/file/d/1-QbE88gabsWGr2zSATbhkzeZ7CLQrBBk/view?usp=share_link)
+SEM-TAB-FACTS | [sem_tab_facts_syn.tsv](https://drive.google.com/file/d/1ZcF1NFlrKvXB_3NB1HBBIited81gGjOs/view?usp=sharing) | [sem_tab_fact_checkpoint](https://drive.google.com/file/d/1NX-X3heLA-OSXCgQi8n6LiwfEwOFSn4t/view?usp=share_link)
 FEVEROUS | [feverous_syn.jsonl](https://drive.google.com/file/d/1S4NHfeb2lw8jnDIfWDOFRk8heTPxdeiU/view?usp=sharing) | [feverous_checkpoint](to_be_uploaded)
 
 ## 📝 License
