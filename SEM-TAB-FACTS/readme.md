@@ -35,3 +35,9 @@ sh train_a.sh #you may need to set the data path and model saving path in train_
 sh infer_a.sh
 ```
 
+#### Self-Training Procedure
+```
+sh infer_a_on_train.sh # get pseudo_labels
+python generate_pseudo_file.py    # reformat the pseudo-labeled training file
+sh train_a_st.sh #train a student model based on the new training file
+```

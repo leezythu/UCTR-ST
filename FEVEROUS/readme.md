@@ -36,7 +36,7 @@ sh train_verdict.sh
 sh infer_verdict.sh
 ```
 
-# Self-Training Procedure
+#### Self-Training Procedure
 ```
 python prepare_for_eval.py  # reformat training file for inference
 sh infer_verdict.sh # get pseudo_labels

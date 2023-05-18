@@ -77,3 +77,10 @@ wget -O merges.txt https://s3.amazonaws.com/models.huggingface.co/bert/roberta-l
 ```python
 sh train.sh
 ```
+
+## Self-Training Procedure
+```
+sh predict_on_train.sh # get pseudo_labels
+python generate_pseudo.py    # reformat the pseudo-labeled training file
+sh train_st.sh #train a student model based on the new training file
+```

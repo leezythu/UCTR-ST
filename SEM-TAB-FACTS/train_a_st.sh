@@ -1,0 +1,1 @@
+CUBLAS_WORKSPACE_CONFIG=:4096:8 python train_task_a/tapas_stf_st.py -n 0212_st_iter1 > 0212_st_iter1.log

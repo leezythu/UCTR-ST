@@ -34,3 +34,11 @@ cd Table-Pretraining/examples
 sh process.sh #process data
 sh train_syn.sh
 ```
+
+## Self-Training Procedure
+```
+sh eval_train.sh # get pseudo_labels
+python utils.py    # reformat the pseudo-labeled training file
+sh process.sh   #process the new training file
+sh train_st.sh #train a student model based on the new training file
+```

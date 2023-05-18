@@ -1,0 +1,1 @@
+CUBLAS_WORKSPACE_CONFIG=:4096:8 python train_task_a/infer_on_train.py -n pseudo_train_iter0 > pseudo_train_iter0.log
